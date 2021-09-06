@@ -1,8 +1,8 @@
 # skccdemorepo
 skccdemorepo
 
-##Demo
-###Subject
+## Demo
+### Subject
 ```
 sudo apt-get update -y
 ```
